@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Runtime Permission</string>
+    <string name="place_call">Place Call</string>
+    <string name="storage_access_required">This Access is Required</string>
+    <string name="ok">Okay</string>
+    <string name="storage_permission_denied">This app will need this permission to place this call</string>
+    <string name="calling">Calling</string>
+</resources>
